@@ -17,7 +17,7 @@ print(v)
 Sample code of python
 ```
 
-Coursera Link for learning [a link](https://www.coursera.org/)
+Start Googling by clicking the [link](https://www.google.com/)
 
 - Peaceful image to bring calm and focus to mind
 
